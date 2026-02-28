@@ -1,2 +1,4 @@
-Current Date and Time (UTC): 2026-02-28 04:59:37
-Current User's Login: AAAGORILLAVR321
+version=1.0.1
+forceUpdate=false
+enabled=true
+message=Welcome to KModder Executor

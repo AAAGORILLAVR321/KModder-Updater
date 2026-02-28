@@ -1,4 +1,4 @@
-version=1.0.2
+version=1.0.0
 forceUpdate=true
 enabled=true
 message=Welcome to KModder Executor 🔥
